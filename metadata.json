@@ -1,0 +1,6 @@
+{
+  "name": "مكتبتي",
+  "description": "منصة عربية رائدة لشراء وتحميل المنتجات الرقمية وملفات PDF المتخصصة بوصول فوري وتجربة سلسة وآمنة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
