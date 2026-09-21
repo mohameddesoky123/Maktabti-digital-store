@@ -47,6 +47,7 @@ export const Navbar: React.FC<NavbarProps> = ({
     { id: 'benefits', label: 'المميزات' },
     { id: 'how-it-works', label: 'كيف يعمل؟' },
     { id: 'preview', label: 'معاينة الملف' },
+    { id: 'reviews', label: 'آراء المشترين' },
     { id: 'faq', label: 'الأسئلة الشائعة' },
   ];
 

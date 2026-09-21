@@ -22,6 +22,11 @@ export interface ReviewItem {
   comment: string;
   date: string;
   verified: boolean;
+  location?: string;
+  tag?: string;
+  helpfulCount?: number;
+  fullStory?: string;
+  keyBenefit?: string;
 }
 
 export interface FaqItem {

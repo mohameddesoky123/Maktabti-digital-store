@@ -29,7 +29,7 @@ export default function App() {
   useEffect(() => {
     if (currentView !== 'landing') return;
 
-    const sectionIds = ['hero', 'inside', 'benefits', 'how-it-works', 'preview', 'faq'];
+    const sectionIds = ['hero', 'inside', 'benefits', 'how-it-works', 'preview', 'reviews', 'faq'];
 
     const handleScroll = () => {
       const scrollPosition = window.scrollY + 180;
